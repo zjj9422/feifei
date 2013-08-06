@@ -1,7 +1,7 @@
 <?php
 //超时时间
 @set_time_limit(120);
-//内存限制 取消内存限制
+//内存限制 取消内存限制11
 @ini_set("memory_limit",'-1');
 //ThinkPHP路径
 define('THINK_PATH','./Lib/ThinkPHP');
